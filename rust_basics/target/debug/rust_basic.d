@@ -1,1 +1,1 @@
-/Users/jabirkhan/Desktop/learning/rust/rust_basics/target/debug/rust_basic: /Users/jabirkhan/Desktop/learning/rust/rust_basics/src/main.rs /Users/jabirkhan/Desktop/learning/rust/rust_basics/src/vars.rs
+/Users/jabirkhan/Desktop/learning/rust/rust_basics/target/debug/rust_basic: /Users/jabirkhan/Desktop/learning/rust/rust_basics/src/cli.rs /Users/jabirkhan/Desktop/learning/rust/rust_basics/src/main.rs
